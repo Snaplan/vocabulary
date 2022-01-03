@@ -1,9 +1,3 @@
-from submain import main
+from submain import l_m
 if __name__ == "__main__":
-    main()
-
-
-
-
-
-
+    l_m()
