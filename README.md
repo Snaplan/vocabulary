@@ -6,7 +6,7 @@ Even if you don't use my main.py and use it elsewhere, be sure to put
 
 at the beginning of the code.
 ## Manual
-Write python main.py "the language you want" in Terminal and the description will be displayed in terminal
+Write "python main.py the language you want(korean,english)" in Terminal and the description will be displayed in terminal
 
 
 https://user-images.githubusercontent.com/81860686/147842469-d9d17422-e251-48a9-8482-b96d421aaf0c.mp4
