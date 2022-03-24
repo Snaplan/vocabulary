@@ -1,7 +1,7 @@
 # Made by Snap_Lan,Aguno
 # READ
 
-Download it as an exe file! [Uploading vocabulary.zip…]()
+Download it as an exe file!(download vocabulary.zip)
 
 # Update Note
 
